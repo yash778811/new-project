@@ -1,0 +1,2 @@
+# new-project
+mule application
